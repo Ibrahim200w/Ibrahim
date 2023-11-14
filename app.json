@@ -1,7 +1,7 @@
 {
-    "name": "spark ダ ᴍᴜsɪᴄ",
-    "description": "سورس سبارك",
-    "logo": "https://graph.org/file/2577f47589c4b4c63e4a6.jpg",
+    "name": "ibrahim ダ ᴍᴜsɪᴄ",
+    "description": "سورس ابراهيم",
+    "logo": "https://telegra.ph/file/af2fa9c68b1e47c661558.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -39,7 +39,7 @@
       },
       "MUSIC_BOT_NAME": {
         "description": "اسم بوتك تكدر تخليه مزخرف",
-        "value": "Mina ダ ᴍᴜsɪᴄ",
+        "value": "𝙞𝙗𝙧𝙖𝙝𝙞𝙢 ダ ᴍᴜsɪᴄ",
         "required": true
       },
       "OWNER_ID": {
